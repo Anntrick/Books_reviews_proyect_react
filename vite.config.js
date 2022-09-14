@@ -12,7 +12,7 @@ export default defineConfig({
     https: true,
     host: 'localhost',
     options: {
-      outputPath: "dist/"
+      outputPath: "./dist/"
     }
   }
 })

@@ -14,5 +14,6 @@ export default defineConfig({
     options: {
       outputPath: "./dist/"
     }
-  }
+  },
+  base: '/Books_reviews_proyect_react/'
 })
